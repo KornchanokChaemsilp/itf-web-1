@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    justify-content: space-between;
+}
+.nav-item-container{
+    display: flex;
+    column-gap: 5px;
+}
+.nav-item{
+    color: brown;
+    background-color: beige;
+}
